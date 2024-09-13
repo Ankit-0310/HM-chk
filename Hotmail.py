@@ -21,8 +21,8 @@ TARGETS = [
     "instagram.com", "netflix.com", "spotify.com", "paypal.com",
     "cash.app", "adobe.com", "facebook.com", "coinbase.com",
     "binance.com", "eezy.com", "digitalocean.com", "supercell.com",
-    "twitter.com", "snapchat.com", "linkedin.com", "tiktok.com",
-    "tumblr.com", "pinterest.com", "reddit.com", "github.com"
+    "twitter.com", "snapchat.com", "linkedin.com", "tiktok.com", "x.com"
+    "tumblr.com", "pinterest.com", "reddit.com", "github.com", "rockstargames.com" , "epicgames.com", "discord.com", "steampowered.com"
 ]
 
 # Authorization management
